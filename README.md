@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexSenties
-- 👀 I’m interested in Python for robotics
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m into in Python for robotics
+- 🌱 I’m currently learning C++
 - 📫 How to reach me - Instagram @alex_senties
 
 <!---
