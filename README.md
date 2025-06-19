@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexSenties
-- 👀 I’m into in Python for robotics/UAVs
-- 🌱 I’m currently learning JS
+- 👀 I’m into in Python for UAVs/machine learning
+- 🌱 I’m currently learning C++
 - 📫 How to reach me - Instagram @alex_senties
 
 <!---
